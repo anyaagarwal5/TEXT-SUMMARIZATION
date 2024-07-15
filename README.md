@@ -8,7 +8,7 @@
 - Selected 'Inshorts News Summary Dataset'
 - Successfully loaded the selected dataset , saved that in Data Folder.
 
-## Data Preprocessing and EDA 
+## Data Preprocessing 
 - Extracted the required columns from the master dataset. 
 - Applied nlp preprocessing techniques on the extracted dataset.
 - Visualized the data distribution between the input and target column.
