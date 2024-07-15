@@ -20,7 +20,7 @@
 
 - Selected t5-small model for abstractive summarization.
 - Prefine tuning results stored at `Summarization_Model/model.ipynb` .
-- Fine tuned it on my dataset , evaluated results at `Summarization_Model/evaluation.ipynb` 
+- Fine tuned it on my dataset , evaluated results at `abstractive_mdel_t5_model_ipynb.ipynb)
 
 
 ### Extractive Approach
